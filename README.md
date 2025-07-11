@@ -4,6 +4,7 @@ Huyang Remote Control
 This project based off JeanetteMueller's Huyang_Remote_Control -'THIS IS A WORK IN PROGRESS' provides the software for an ESP8266 microcontroller to remotely control your DroidDivision Huyang unit. It enables browser and mobile device access, utilizing two GC9A01 TFT displays for visual feedback. This solution is designed to run on most ESP8266 boards. Inside the /Wiring Diagrams folder, you can find instructions on how to connect two GC9A01 Displays to common boards.
 <img width="1378" height="1128" alt="Screenshot 2025-07-11 at 10 15 49 AM" src="https://github.com/user-attachments/assets/1631418d-ad9d-43f2-986b-f2ebc041178d" />
 
+Below is the virtual look at the Web interface served by the ESP8266
 https://myrddinwylit.github.io/Huyang_Droid_Controls/
 
 ✨ Getting This Running!
