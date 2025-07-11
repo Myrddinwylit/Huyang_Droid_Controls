@@ -33,7 +33,7 @@
         // Here you can enable/disable some sub-sections of the software to match your build
         // To disable an option, change: true; to false;
 
-        // The following are now *defined* in Huyang_Remote_Control.ino, not declared extern here.
+        // The following are now *defined* in Huyang_Driod_Controls.ino, not declared extern here.
         // extern bool enableEyes;
         // extern bool enableMonacle;
         // extern bool enableNeckMovement;
